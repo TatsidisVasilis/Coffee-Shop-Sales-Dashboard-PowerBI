@@ -34,7 +34,7 @@ https://app.powerbi.com/view?r=eyJrIjoiZDMzZjEyYTItM2NkMi00NjIwLTg2MjMtYWI1ZjliN
 
 ## Dashboard Preview
 
-coffee_shop_dashboard.png
+![Coffee Shop Dashboard](coffee_shop_dashboard.png)
 
 ## Learning Note
 
